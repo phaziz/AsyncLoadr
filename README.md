@@ -1,7 +1,9 @@
 #AsyncLoadr
 
+
 ## What?
 A tiny Javascript Snippet to load external .js- and .css-Files the async way.
+
 
 ## Usage?
 > &lt;script src="./path-to-file/phaziz.async.loadr.min.js"&gt;&lt;/script&gt;    
